@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="label_valor_um">Valor 1</string>
+    <string name="label_valor_dois">Valor 2</string>
+    <string name="label_btn_somar">Somar</string>
+    <string name="label_btn_subtrair">Subtrair</string>
+    <string name="label_btn_mutiplicar">Multiplicar</string>
+    <string name="label_btn_dividir">Dividir</string>
+    <string name="label_resultado">Resultado</string>
+</resources>
